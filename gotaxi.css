@@ -26,7 +26,6 @@ a:active {
 	background-position: center;
 	background-repeat: no-repeat;
 }
-}
 .a1{
 	margin-left: 1100px;
 	margin-top: -1700px;
@@ -373,10 +372,10 @@ h4{
 	background-color: #FEC303;
     transition: 0.5s;
     border: none;
-   p {
-   	color: white;
-    }
 }
+p {
+	color: white;
+ }
 .count{
 	display: flex;
 	margin: 0 auto;
