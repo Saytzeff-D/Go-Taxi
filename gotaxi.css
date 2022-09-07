@@ -159,7 +159,7 @@ a:active {
 }
 .fb:hover {
      transition: 0.5s;
-     background-color: #3B5998;
+     background-color: green;
 }
 .twi{
 	width: 40px;
