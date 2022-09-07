@@ -158,8 +158,9 @@ a:active {
 	margin-left: 15px;
 }
 .fb:hover {
-     transition: 0.5s;
-     background-color: green;
+     transition: 0.9s;
+     /* background-color: #3B5998; */
+	 background-color: red; 
 }
 .twi{
 	width: 40px;
