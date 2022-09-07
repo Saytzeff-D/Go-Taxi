@@ -160,7 +160,7 @@ a:active {
 .fb:hover {
      transition: 0.9s;
      /* background-color: #3B5998; */
-	 background-color: red;
+	 background-color: red; 
 }
 .twi{
 	width: 40px;
